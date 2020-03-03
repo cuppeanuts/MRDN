@@ -1,0 +1,79 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: MRDN_mfinder_input.txt
+	Network type: Non-Directed
+	Num of Nodes: 304 Num of Edges: 2440
+	Num of Nodes with edges: 297
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 2 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+78	38445	0.0+-0.0	888888	0.000	75	864.53
+
+0 1 1 
+1 0 0 
+1 0 0 
+
+238	6024	0.0+-0.0	888888	0.000	76	135.47
+
+0 1 1 
+1 0 1 
+1 1 0 
+
+
+
+
+Full list of subgraphs size 3 ids:
+
+	( Total num of different subgraphs size 3 is : 13 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+6	0	0.0+-0.0	888888	0.000	0.00	0
+
+12	0	0.0+-0.0	888888	0.000	0.00	0
+
+14	0	0.0+-0.0	888888	0.000	0.00	0
+
+36	0	0.0+-0.0	888888	0.000	0.00	0
+
+38	0	0.0+-0.0	888888	0.000	0.00	0
+
+46	0	0.0+-0.0	888888	0.000	0.00	0
+
+74	0	0.0+-0.0	888888	0.000	0.00	0
+
+78	38445	0.0+-0.0	888888	0.000	864.53	75
+
+98	0	0.0+-0.0	888888	0.000	0.00	0
+
+102	0	0.0+-0.0	888888	0.000	0.00	0
+
+108	0	0.0+-0.0	888888	0.000	0.00	0
+
+110	0	0.0+-0.0	888888	0.000	0.00	0
+
+238	6024	0.0+-0.0	888888	0.000	135.47	76
+
+
+
+ (Application total runtime was:    1.0 seconds.)
+
+ (Real network processing runtime was:    1.0 seconds.)
+
+ (Single Random network processing runtime was:    0.0 seconds.)

@@ -1,0 +1,305 @@
+Nodes	Category
+Abortion, Habitual	Urogenital Diseases and Pregnancy Complications
+Acquired Immunodeficiency Syndrome	Immune System Diseases
+Acute Kidney Injury	Urogenital Diseases and Pregnancy Complications
+Acute Lung Injury	Respiratory Tract Diseases
+Adenocarcinoma, Esophageal	Neoplasms
+Adenocarcinoma, Lung	Neoplasms
+Adenoviridae Infections	Virus Diseases
+Adrenal Cortex Neoplasms	Neoplasms
+Adrenocortical Carcinoma	Neoplasms
+Alopecia	Skin and Connective Tissue Diseases
+Alzheimer Disease	Nervous System Diseases
+Amyotrophic Lateral Sclerosis	Nervous System Diseases
+Aneurysm	Cardiovascular Diseases
+Aortic Aneurysm	Cardiovascular Diseases
+Aortic Aneurysm, Abdominal	Cardiovascular Diseases
+Aortic Aneurysm, Thoracic	Cardiovascular Diseases
+Aortic Valve Insufficiency	Cardiovascular Diseases
+Aortic Valve Stenosis	Cardiovascular Diseases
+Arbovirus Infections	Virus Diseases
+Arteriosclerosis Obliterans	Cardiovascular Diseases
+Arthritis, Rheumatoid	Immune System Diseases
+Asthenozoospermia	Urogenital Diseases and Pregnancy Complications
+Asthma	Immune System Diseases
+Astrocytoma	Neoplasms
+Atherosclerosis	Cardiovascular Diseases
+Atrial Fibrillation	Cardiovascular Diseases
+Autism Spectrum Disorder	Others
+Autoimmune Diseases	Immune System Diseases
+Azoospermia	Urogenital Diseases and Pregnancy Complications
+Barrett Esophagus	Digestive System Diseases
+Behcet Syndrome	Skin and Connective Tissue Diseases
+Biliary Tract Neoplasms	Neoplasms
+Brain Ischemia	Cardiovascular Diseases
+Breast Neoplasms	Neoplasms
+Bronchiolitis Obliterans	Respiratory Tract Diseases
+Burkitt Lymphoma	Neoplasms
+Burns	Others
+Carcinoma, Adenoid Cystic	Neoplasms
+Carcinoma, Basal Cell	Neoplasms
+Carcinoma, Colon	Neoplasms
+Carcinoma, Ductal	Neoplasms
+Carcinoma, Ehrlich Tumor	Neoplasms
+Carcinoma, Endometrioid	Neoplasms
+Carcinoma, Hepatocellular	Neoplasms
+Carcinoma, Merkel Cell	Neoplasms
+Carcinoma, Nasopharyngeal	Neoplasms
+Carcinoma, Neuroendocrine	Neoplasms
+Carcinoma, Non-Small-Cell Lung	Neoplasms
+Carcinoma, Ovarian	Neoplasms
+Carcinoma, Pancreatic	Neoplasms
+Carcinoma, Pancreatic Ductal	Neoplasms
+Carcinoma, Renal Cell	Neoplasms
+Carcinoma, Signet Ring Cell	Neoplasms
+Carcinoma, Skin Appendage	Neoplasms
+Carcinoma, Squamous Cell	Neoplasms
+Carcinoma, Thyroid, Follicular	Neoplasms
+Carcinoma, Thyroid, Medullary	Neoplasms
+Carcinoma, Thyroid, Papillary	Neoplasms
+Cardiomegaly	Cardiovascular Diseases
+Cardiomyopathies	Cardiovascular Diseases
+Cardiomyopathy, Alcoholic	Cardiovascular Diseases
+Cardiomyopathy, Dilated	Cardiovascular Diseases
+Cardiomyopathy, Hypertrophic	Cardiovascular Diseases
+Cardiotoxicity	Cardiovascular Diseases
+Cardiovascular Diseases	Cardiovascular Diseases
+Cataract	Others
+Cholangiocarcinoma	Neoplasms
+Cholesteatoma	Others
+Chondrosarcoma	Neoplasms
+Chordoma	Neoplasms
+Chorioamnionitis	Urogenital Diseases and Pregnancy Complications
+Choriocarcinoma	Neoplasms
+Colitis	Digestive System Diseases
+Colitis, Ulcerative	Digestive System Diseases
+Colonic Neoplasms	Neoplasms
+Colorectal Adenocarcinoma	Neoplasms
+Colorectal Neoplasms	Neoplasms
+Constriction, Pathologic	Others
+Coronary Artery Disease	Cardiovascular Diseases
+Creutzfeldt-Jakob Syndrome	Nervous System Diseases
+Crohn Disease	Digestive System Diseases
+Cutaneous Melanoma	Neoplasms
+Cystitis, Interstitial	Urogenital Diseases and Pregnancy Complications
+Cytomegalovirus Retinitis	Virus Diseases
+Demyelinating Diseases	Nervous System Diseases
+Dermatitis, Atopic	Immune System Diseases
+Diabetes Mellitus	Nutritional and Metabolic Diseases
+Diabetes Mellitus, Type 1	Immune System Diseases
+Diabetes Mellitus, Type 2	Nutritional and Metabolic Diseases
+Diabetic Cardiomyopathies	Cardiovascular Diseases
+Diabetic Nephropathies	Nutritional and Metabolic Diseases
+Digestive System Neoplasms	Neoplasms
+Down Syndrome	Nervous System Diseases
+Eclampsia	Urogenital Diseases and Pregnancy Complications
+Endocrine Gland Neoplasms	Neoplasms
+Endometrial Neoplasms	Neoplasms
+Endometriosis	Urogenital Diseases and Pregnancy Complications
+Endotoxemia	Bacterial Infections and Mycoses
+Eosinophilic Esophagitis	Immune System Diseases
+Ependymoma	Neoplasms
+Epilepsy, Temporal Lobe	Nervous System Diseases
+Epstein-Barr Virus Infections	Virus Diseases
+Esophageal Neoplasms	Neoplasms
+Esophagitis	Digestive System Diseases
+Fatty Liver	Digestive System Diseases
+Fibromatosis, Aggressive	Neoplasms
+Fibromyalgia	Nervous System Diseases
+Follicular Atresia	Others
+Gastrointestinal Neoplasms	Neoplasms
+Gaucher Disease	Nervous System Diseases
+Gerstmann-Straussler-Scheinker Disease	Nervous System Diseases
+Glaucoma	Others
+Glioblastoma	Neoplasms
+Glioma	Neoplasms
+Glomerulonephritis	Urogenital Diseases and Pregnancy Complications
+Graft Rejection	Others
+Graft vs Host Disease	Immune System Diseases
+HIV Infections	Immune System Diseases
+HIV-Associated Lipodystrophy Syndrome	Immune System Diseases
+Head and Neck Neoplasms	Neoplasms
+Heart Defects, Congenital	Cardiovascular Diseases
+Heart Diseases	Cardiovascular Diseases
+Heart Failure	Cardiovascular Diseases
+Helicobacter pylori	Others
+Helplessness, Learned	Others
+Hemangioma, Cavernous, Central Nervous System	Cardiovascular Diseases
+Hematologic Neoplasms	Neoplasms
+Hepatitis B	Virus Diseases
+Hepatitis B, Chronic	Virus Diseases
+Hepatitis C	Virus Diseases
+Hepatitis C, Chronic	Virus Diseases
+Hepatitis, Alcoholic	Digestive System Diseases
+Hepatitis, Chronic	Digestive System Diseases
+Hepatoblastoma	Neoplasms
+Hirschsprung Disease	Digestive System Diseases
+Hodgkin Disease	Neoplasms
+Huntington Disease	Nervous System Diseases
+Hyperglycemia	Nutritional and Metabolic Diseases
+Hypertension	Cardiovascular Diseases
+Hypertension, Pulmonary	Respiratory Tract Diseases
+Hypertrophy	Others
+Hypoxia-Ischemia, Brain	Nervous System Diseases
+Idiopathic Pulmonary Fibrosis	Respiratory Tract Diseases
+Infection	Bacterial Infections and Mycoses
+Inferior Wall Myocardial Infarction	Cardiovascular Diseases
+Infertility	Urogenital Diseases and Pregnancy Complications
+Infertility, Male	Urogenital Diseases and Pregnancy Complications
+Inflammation	Others
+Inflammatory Bowel Diseases	Digestive System Diseases
+Intervertebral Disc Degeneration	Musculoskeletal Diseases
+Irritable Bowel Syndrome	Digestive System Diseases
+Ischemia	Others
+Kidney Diseases	Urogenital Diseases and Pregnancy Complications
+Kidney Failure, Chronic	Urogenital Diseases and Pregnancy Complications
+Kidney Neoplasms	Neoplasms
+Laryngeal Neoplasms	Neoplasms
+Leiomyoma	Neoplasms
+Leukemia	Neoplasms
+Leukemia, B-Cell	Neoplasms
+Leukemia, Biphenotypic, Acute	Neoplasms
+Leukemia, Lymphocytic, Chronic, B-Cell	Neoplasms
+Leukemia, Lymphoid	Neoplasms
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive	Neoplasms
+Leukemia, Myeloid	Neoplasms
+Leukemia, Myeloid, Acute	Neoplasms
+Leukemia, Promyelocytic, Acute	Neoplasms
+Leukemia-Lymphoma, Adult T-Cell	Neoplasms
+Lichen Planus	Skin and Connective Tissue Diseases
+Lichen Planus, Oral	Skin and Connective Tissue Diseases
+Liver Cirrhosis	Digestive System Diseases
+Liver Cirrhosis, Biliary	Digestive System Diseases
+Liver Diseases	Digestive System Diseases
+Liver Diseases, Alcoholic	Digestive System Diseases
+Liver Failure	Digestive System Diseases
+Liver Neoplasms	Neoplasms
+Lung Diseases, Interstitial	Respiratory Tract Diseases
+Lung Neoplasms	Neoplasms
+Lupus Erythematosus, Systemic	Immune System Diseases
+Lupus Nephritis	Immune System Diseases
+Lymphoma	Neoplasms
+Lymphoma, B-Cell	Neoplasms
+Lymphoma, Large B-Cell, Diffuse	Neoplasms
+Lymphoma, Mantle-Cell	Neoplasms
+Lymphoma, Non-Hodgkin	Neoplasms
+Lymphoma, Primary Effusion	Neoplasms
+Lymphoma, T-Cell	Neoplasms
+Macular Degeneration	Others
+Medulloblastoma	Neoplasms
+Melanoma	Neoplasms
+Meningioma	Neoplasms
+Mesothelioma	Neoplasms
+Mitochondrial Diseases	Nutritional and Metabolic Diseases
+Mouth Neoplasms	Neoplasms
+Mucocutaneous Lymph Node Syndrome	Skin and Connective Tissue Diseases
+Multiple Endocrine Neoplasia Type 1	Neoplasms
+Multiple Myeloma	Neoplasms
+Multiple Sclerosis	Immune System Diseases
+Muscular Atrophy	Nervous System Diseases
+Muscular Atrophy, Spinal	Nervous System Diseases
+Muscular Dystrophies	Nervous System Diseases
+Muscular Dystrophy, Facioscapulohumeral	Nervous System Diseases
+Musculoskeletal Abnormalities	Musculoskeletal Diseases
+Mycosis Fungoides	Immune System Diseases
+Myelodysplastic Syndromes	Hemic and Lymphatic Diseases
+Myocardial Infarction	Cardiovascular Diseases
+Myocardial Ischemia	Cardiovascular Diseases
+Myocardial Reperfusion Injury	Cardiovascular Diseases
+Myositis	Nervous System Diseases
+Myotonic Dystrophy	Nervous System Diseases
+Nasopharyngeal Neoplasms	Neoplasms
+Neoplasms	Neoplasms
+Nephrosclerosis	Urogenital Diseases and Pregnancy Complications
+Nephrotic Syndrome	Urogenital Diseases and Pregnancy Complications
+Nervous System Diseases	Nervous System Diseases
+Neurilemmoma	Neoplasms
+Neuroblastoma	Neoplasms
+Neurodegenerative Diseases	Nervous System Diseases
+Neuroma	Neoplasms
+Neurotoxicity Syndromes	Nervous System Diseases
+Niemann-Pick Disease, Type C	Nervous System Diseases
+Non-alcoholic Fatty Liver Disease	Digestive System Diseases
+Obesity	Nutritional and Metabolic Diseases
+Osteoarthritis	Musculoskeletal Diseases
+Osteoarthritis, Knee	Musculoskeletal Diseases
+Osteogenesis Imperfecta	Musculoskeletal Diseases
+Osteonecrosis	Musculoskeletal Diseases
+Osteoporosis	Nutritional and Metabolic Diseases
+Osteosarcoma	Neoplasms
+Otitis Media	Others
+Ovarian Neoplasms	Neoplasms
+Pancreatic Neoplasms	Neoplasms
+Pancreatitis, Acute Necrotizing	Digestive System Diseases
+Papillomaviridae	Others
+Parkinson Disease	Nervous System Diseases
+Periodontal Diseases	Others
+Periodontitis	Others
+Peritonitis	Bacterial Infections and Mycoses
+Pheochromocytoma	Neoplasms
+Pituitary Neoplasms	Neoplasms
+Polycystic Ovary Syndrome	Nutritional and Metabolic Diseases
+Polycythemia Vera	Hemic and Lymphatic Diseases
+Pre-Eclampsia	Urogenital Diseases and Pregnancy Complications
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	Neoplasms
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	Neoplasms
+Pregnancy, Ectopic	Urogenital Diseases and Pregnancy Complications
+Prion Diseases	Nervous System Diseases
+Prolactinoma	Neoplasms
+Prostatic Neoplasms	Neoplasms
+Psoriasis	Skin and Connective Tissue Diseases
+Pulmonary Disease, Chronic Obstructive	Respiratory Tract Diseases
+Pulmonary Fibrosis	Respiratory Tract Diseases
+Rectal Neoplasms	Neoplasms
+Reperfusion Injury	Cardiovascular Diseases
+Respiratory Distress Syndrome, Adult	Respiratory Tract Diseases
+Respiratory Syncytial Virus Infections	Virus Diseases
+Retinal Degeneration	Others
+Retinal Neovascularization	Others
+Retinitis Pigmentosa	Others
+Retinoblastoma	Neoplasms
+Rhabdomyosarcoma	Neoplasms
+Rhinitis, Allergic	Immune System Diseases
+Rhinitis, Allergic, Perennial	Immune System Diseases
+Rhinitis, Vasomotor	Respiratory Tract Diseases
+Salivary Gland Neoplasms	Neoplasms
+Salmonella Infections	Bacterial Infections and Mycoses
+Sarcoma	Neoplasms
+Sarcoma, Ewing	Neoplasms
+Sarcoma, Kaposi	Neoplasms
+Sarcoma, Synovial	Neoplasms
+Schistosomiasis japonica	Parasitic Diseases
+Schizophrenia	Others
+Scleroderma, Localized	Skin and Connective Tissue Diseases
+Scleroderma, Systemic	Skin and Connective Tissue Diseases
+Seizures	Nervous System Diseases
+Seminoma	Neoplasms
+Sepsis	Bacterial Infections and Mycoses
+Sezary Syndrome	Immune System Diseases
+Shock, Hemorrhagic	Others
+Sjogren's Syndrome	Immune System Diseases
+Small Cell Lung Carcinoma	Neoplasms
+Solitary Fibrous Tumor, Pleural	Neoplasms
+Spinal Cord Injuries	Nervous System Diseases
+Spinal Stenosis	Musculoskeletal Diseases
+Spondylitis, Ankylosing	Musculoskeletal Diseases
+Squamous Cell Carcinoma, Esophageal	Neoplasms
+Squamous Cell Carcinoma, Head and Neck	Neoplasms
+Stomach Neoplasms	Neoplasms
+Stroke	Nervous System Diseases
+Subarachnoid Hemorrhage	Cardiovascular Diseases
+Telangiectasia, Hereditary Hemorrhagic	Cardiovascular Diseases
+Testicular Neoplasms	Neoplasms
+Thrombocythemia, Essential	Hemic and Lymphatic Diseases
+Thyroid Carcinoma, Anaplastic	Neoplasms
+Thyroid Neoplasms	Neoplasms
+Thyroiditis, Autoimmune	Immune System Diseases
+Toxoplasmosis	Parasitic Diseases
+Triple Negative Breast Neoplasms	Neoplasms
+Tuberculosis	Bacterial Infections and Mycoses
+Tuberculosis, Pulmonary	Bacterial Infections and Mycoses
+Urinary Bladder Neoplasms	Neoplasms
+Uterine Cervical Neoplasms	Neoplasms
+Uveal Melanoma	Neoplasms
+Vitiligo	Skin and Connective Tissue Diseases
+Waldenstrom Macroglobulinemia	Immune System Diseases

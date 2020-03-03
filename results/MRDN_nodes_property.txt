@@ -1,0 +1,305 @@
+Nodes	Category	Degree	Positive_Edge	Negative_Edge	Cluster_Coefficient
+Abortion, Habitual	Urogenital Diseases and Pregnancy Complications	3	1	2	1.0
+Acquired Immunodeficiency Syndrome	Immune System Diseases	28	13	15	0.3201058201058201
+Acute Kidney Injury	Urogenital Diseases and Pregnancy Complications	12	11	1	0.696969696969697
+Acute Lung Injury	Respiratory Tract Diseases	22	14	8	0.4069264069264069
+Adenocarcinoma, Esophageal	Neoplasms	34	29	5	0.20320855614973263
+Adenocarcinoma, Lung	Neoplasms	24	14	10	0.22826086956521738
+Adenoviridae Infections	Virus Diseases	1	1	0	0.0
+Adrenal Cortex Neoplasms	Neoplasms	21	13	8	0.13333333333333333
+Adrenocortical Carcinoma	Neoplasms	22	11	11	0.2987012987012987
+Alopecia	Skin and Connective Tissue Diseases	20	9	11	0.3631578947368421
+Alzheimer Disease	Nervous System Diseases	23	6	17	0.18972332015810275
+Amyotrophic Lateral Sclerosis	Nervous System Diseases	20	11	9	0.5526315789473685
+Aneurysm	Cardiovascular Diseases	7	4	3	1.0
+Aortic Aneurysm	Cardiovascular Diseases	10	3	7	0.7333333333333333
+Aortic Aneurysm, Abdominal	Cardiovascular Diseases	28	18	10	0.35714285714285715
+Aortic Aneurysm, Thoracic	Cardiovascular Diseases	25	16	9	0.4166666666666667
+Aortic Valve Insufficiency	Cardiovascular Diseases	18	13	5	0.5098039215686274
+Aortic Valve Stenosis	Cardiovascular Diseases	18	13	5	0.5098039215686274
+Arbovirus Infections	Virus Diseases	4	3	1	1.0
+Arteriosclerosis Obliterans	Cardiovascular Diseases	6	3	3	0.6666666666666666
+Arthritis, Rheumatoid	Immune System Diseases	53	42	11	0.25471698113207547
+Asthenozoospermia	Urogenital Diseases and Pregnancy Complications	3	1	2	0.3333333333333333
+Asthma	Immune System Diseases	15	6	9	0.2571428571428571
+Astrocytoma	Neoplasms	18	12	6	0.28104575163398693
+Atherosclerosis	Cardiovascular Diseases	60	47	13	0.2016949152542373
+Atrial Fibrillation	Cardiovascular Diseases	25	20	5	0.19333333333333333
+Autism Spectrum Disorder	Others	1	0	1	0.0
+Autoimmune Diseases	Immune System Diseases	18	11	7	0.35947712418300654
+Azoospermia	Urogenital Diseases and Pregnancy Complications	21	11	10	0.3523809523809524
+Barrett Esophagus	Digestive System Diseases	30	16	14	0.23218390804597702
+Behcet Syndrome	Skin and Connective Tissue Diseases	3	3	0	1.0
+Biliary Tract Neoplasms	Neoplasms	13	3	10	0.34615384615384615
+Brain Ischemia	Cardiovascular Diseases	6	6	0	0.6666666666666666
+Breast Neoplasms	Neoplasms	18	18	0	0.43137254901960786
+Bronchiolitis Obliterans	Respiratory Tract Diseases	9	5	4	0.9444444444444444
+Burkitt Lymphoma	Neoplasms	3	3	0	0.0
+Burns	Others	4	1	3	0.8333333333333334
+Carcinoma, Adenoid Cystic	Neoplasms	7	5	2	0.2857142857142857
+Carcinoma, Basal Cell	Neoplasms	3	3	0	1.0
+Carcinoma, Colon	Neoplasms	18	15	3	0.3137254901960784
+Carcinoma, Ductal	Neoplasms	17	15	2	0.7426470588235294
+Carcinoma, Ehrlich Tumor	Neoplasms	24	17	7	0.37681159420289856
+Carcinoma, Endometrioid	Neoplasms	21	14	7	0.3142857142857143
+Carcinoma, Hepatocellular	Neoplasms	4	4	0	0.5
+Carcinoma, Merkel Cell	Neoplasms	7	4	3	0.8571428571428571
+Carcinoma, Nasopharyngeal	Neoplasms	10	4	6	0.26666666666666666
+Carcinoma, Neuroendocrine	Neoplasms	31	27	4	0.5161290322580645
+Carcinoma, Non-Small-Cell Lung	Neoplasms	20	16	4	0.4263157894736842
+Carcinoma, Ovarian	Neoplasms	15	7	8	0.14285714285714285
+Carcinoma, Pancreatic	Neoplasms	36	16	20	0.20793650793650795
+Carcinoma, Pancreatic Ductal	Neoplasms	12	9	3	0.22727272727272727
+Carcinoma, Renal Cell	Neoplasms	16	13	3	0.2
+Carcinoma, Signet Ring Cell	Neoplasms	1	1	0	0.0
+Carcinoma, Skin Appendage	Neoplasms	17	15	2	0.7426470588235294
+Carcinoma, Squamous Cell	Neoplasms	20	10	10	0.24736842105263157
+Carcinoma, Thyroid, Follicular	Neoplasms	4	4	0	0.6666666666666666
+Carcinoma, Thyroid, Medullary	Neoplasms	36	30	6	0.3142857142857143
+Carcinoma, Thyroid, Papillary	Neoplasms	36	26	10	0.20634920634920634
+Cardiomegaly	Cardiovascular Diseases	12	8	4	0.8939393939393939
+Cardiomyopathies	Cardiovascular Diseases	0	0	0	0.0
+Cardiomyopathy, Alcoholic	Cardiovascular Diseases	3	1	2	1.0
+Cardiomyopathy, Dilated	Cardiovascular Diseases	14	6	8	0.3626373626373626
+Cardiomyopathy, Hypertrophic	Cardiovascular Diseases	39	17	22	0.15654520917678813
+Cardiotoxicity	Cardiovascular Diseases	7	3	4	0.3333333333333333
+Cardiovascular Diseases	Cardiovascular Diseases	26	15	11	0.22153846153846155
+Cataract	Others	8	4	4	0.7857142857142857
+Cholangiocarcinoma	Neoplasms	34	31	3	0.30124777183600715
+Cholesteatoma	Others	20	11	9	0.5052631578947369
+Chondrosarcoma	Neoplasms	4	3	1	0.3333333333333333
+Chordoma	Neoplasms	1	0	1	0.0
+Chorioamnionitis	Urogenital Diseases and Pregnancy Complications	12	10	2	0.6363636363636364
+Choriocarcinoma	Neoplasms	38	27	11	0.17069701280227595
+Colitis	Digestive System Diseases	8	3	5	0.9642857142857143
+Colitis, Ulcerative	Digestive System Diseases	44	32	12	0.30021141649048627
+Colonic Neoplasms	Neoplasms	6	6	0	0.06666666666666667
+Colorectal Adenocarcinoma	Neoplasms	29	20	9	0.23645320197044334
+Colorectal Neoplasms	Neoplasms	21	18	3	0.26666666666666666
+Constriction, Pathologic	Others	4	2	2	0.8333333333333334
+Coronary Artery Disease	Cardiovascular Diseases	25	12	13	0.34
+Creutzfeldt-Jakob Syndrome	Nervous System Diseases	16	10	6	0.8583333333333333
+Crohn Disease	Digestive System Diseases	22	15	7	0.5064935064935064
+Cutaneous Melanoma	Neoplasms	3	3	0	0.3333333333333333
+Cystitis, Interstitial	Urogenital Diseases and Pregnancy Complications	2	1	1	0.0
+Cytomegalovirus Retinitis	Virus Diseases	2	2	0	1.0
+Demyelinating Diseases	Nervous System Diseases	31	27	4	0.5161290322580645
+Dermatitis, Atopic	Immune System Diseases	49	36	13	0.266156462585034
+Diabetes Mellitus	Nutritional and Metabolic Diseases	7	5	2	0.38095238095238093
+Diabetes Mellitus, Type 1	Immune System Diseases	10	3	7	0.5777777777777777
+Diabetes Mellitus, Type 2	Nutritional and Metabolic Diseases	23	16	7	0.18181818181818182
+Diabetic Cardiomyopathies	Cardiovascular Diseases	4	1	3	1.0
+Diabetic Nephropathies	Nutritional and Metabolic Diseases	40	27	13	0.2141025641025641
+Digestive System Neoplasms	Neoplasms	28	17	11	0.3148148148148148
+Down Syndrome	Nervous System Diseases	18	16	2	0.8431372549019608
+Eclampsia	Urogenital Diseases and Pregnancy Complications	22	13	9	0.2683982683982684
+Endocrine Gland Neoplasms	Neoplasms	29	18	11	0.2684729064039409
+Endometrial Neoplasms	Neoplasms	17	11	6	0.3235294117647059
+Endometriosis	Urogenital Diseases and Pregnancy Complications	14	4	10	0.2087912087912088
+Endotoxemia	Bacterial Infections and Mycoses	24	10	14	0.2536231884057971
+Eosinophilic Esophagitis	Immune System Diseases	44	28	16	0.2822410147991543
+Ependymoma	Neoplasms	11	9	2	0.12727272727272726
+Epilepsy, Temporal Lobe	Nervous System Diseases	21	10	11	0.49047619047619045
+Epstein-Barr Virus Infections	Virus Diseases	11	1	10	0.7272727272727273
+Esophageal Neoplasms	Neoplasms	13	11	2	0.1794871794871795
+Esophagitis	Digestive System Diseases	22	11	11	0.30735930735930733
+Fatty Liver	Digestive System Diseases	10	5	5	0.37777777777777777
+Fibromatosis, Aggressive	Neoplasms	13	11	2	0.9102564102564102
+Fibromyalgia	Nervous System Diseases	22	6	16	0.39826839826839827
+Follicular Atresia	Others	3	0	3	1.0
+Gastrointestinal Neoplasms	Neoplasms	17	14	3	0.33088235294117646
+Gaucher Disease	Nervous System Diseases	18	16	2	0.8431372549019608
+Gerstmann-Straussler-Scheinker Disease	Nervous System Diseases	16	10	6	0.8583333333333333
+Glaucoma	Others	4	0	4	1.0
+Glioblastoma	Neoplasms	19	15	4	0.24561403508771928
+Glioma	Neoplasms	24	22	2	0.2644927536231884
+Glomerulonephritis	Urogenital Diseases and Pregnancy Complications	12	9	3	0.8484848484848485
+Graft Rejection	Others	11	5	6	0.36363636363636365
+Graft vs Host Disease	Immune System Diseases	18	16	2	0.8431372549019608
+HIV Infections	Immune System Diseases	18	9	9	0.2875816993464052
+HIV-Associated Lipodystrophy Syndrome	Immune System Diseases	4	2	2	0.16666666666666666
+Head and Neck Neoplasms	Neoplasms	29	21	8	0.28078817733990147
+Heart Defects, Congenital	Cardiovascular Diseases	22	17	5	0.5497835497835498
+Heart Diseases	Cardiovascular Diseases	1	0	1	0.0
+Heart Failure	Cardiovascular Diseases	26	15	11	0.3261538461538461
+Helicobacter pylori	Others	14	9	5	0.27472527472527475
+Helplessness, Learned	Others	29	10	19	0.3054187192118227
+Hemangioma, Cavernous, Central Nervous System	Cardiovascular Diseases	14	9	5	0.3516483516483517
+Hematologic Neoplasms	Neoplasms	2	1	1	0.0
+Hepatitis B	Virus Diseases	28	16	12	0.24867724867724866
+Hepatitis B, Chronic	Virus Diseases	4	2	2	0.6666666666666666
+Hepatitis C	Virus Diseases	13	7	6	0.14102564102564102
+Hepatitis C, Chronic	Virus Diseases	9	7	2	0.19444444444444445
+Hepatitis, Alcoholic	Digestive System Diseases	9	7	2	0.6388888888888888
+Hepatitis, Chronic	Digestive System Diseases	10	7	3	0.5555555555555556
+Hepatoblastoma	Neoplasms	7	3	4	0.3333333333333333
+Hirschsprung Disease	Digestive System Diseases	11	8	3	0.4909090909090909
+Hodgkin Disease	Neoplasms	30	27	3	0.335632183908046
+Huntington Disease	Nervous System Diseases	19	6	13	0.6842105263157895
+Hyperglycemia	Nutritional and Metabolic Diseases	5	3	2	0.8
+Hypertension	Cardiovascular Diseases	0	0	0	0.0
+Hypertension, Pulmonary	Respiratory Tract Diseases	15	7	8	0.19047619047619047
+Hypertrophy	Others	14	10	4	0.7472527472527473
+Hypoxia-Ischemia, Brain	Nervous System Diseases	9	7	2	0.6388888888888888
+Idiopathic Pulmonary Fibrosis	Respiratory Tract Diseases	2	2	0	1.0
+Infection	Bacterial Infections and Mycoses	4	2	2	0.16666666666666666
+Inferior Wall Myocardial Infarction	Cardiovascular Diseases	19	7	12	0.47953216374269003
+Infertility	Urogenital Diseases and Pregnancy Complications	4	2	2	0.16666666666666666
+Infertility, Male	Urogenital Diseases and Pregnancy Complications	6	6	0	0.6666666666666666
+Inflammation	Others	33	23	10	0.19318181818181818
+Inflammatory Bowel Diseases	Digestive System Diseases	13	10	3	0.3333333333333333
+Intervertebral Disc Degeneration	Musculoskeletal Diseases	4	3	1	1.0
+Irritable Bowel Syndrome	Digestive System Diseases	0	0	0	0.0
+Ischemia	Others	7	6	1	1.0
+Kidney Diseases	Urogenital Diseases and Pregnancy Complications	10	7	3	0.8
+Kidney Failure, Chronic	Urogenital Diseases and Pregnancy Complications	19	10	9	0.24561403508771928
+Kidney Neoplasms	Neoplasms	3	0	3	0.3333333333333333
+Laryngeal Neoplasms	Neoplasms	20	18	2	0.24210526315789474
+Leiomyoma	Neoplasms	0	0	0	0.0
+Leukemia	Neoplasms	28	17	11	0.24338624338624337
+Leukemia, B-Cell	Neoplasms	23	17	6	0.25296442687747034
+Leukemia, Biphenotypic, Acute	Neoplasms	11	9	2	0.4727272727272727
+Leukemia, Lymphocytic, Chronic, B-Cell	Neoplasms	31	20	11	0.23440860215053763
+Leukemia, Lymphoid	Neoplasms	3	2	1	0.6666666666666666
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive	Neoplasms	19	4	15	0.5029239766081871
+Leukemia, Myeloid	Neoplasms	1	1	0	0.0
+Leukemia, Myeloid, Acute	Neoplasms	26	13	13	0.25846153846153846
+Leukemia, Promyelocytic, Acute	Neoplasms	26	17	9	0.28923076923076924
+Leukemia-Lymphoma, Adult T-Cell	Neoplasms	6	2	4	0.4
+Lichen Planus	Skin and Connective Tissue Diseases	48	33	15	0.274822695035461
+Lichen Planus, Oral	Skin and Connective Tissue Diseases	12	7	5	0.9848484848484849
+Liver Cirrhosis	Digestive System Diseases	28	16	12	0.17989417989417988
+Liver Cirrhosis, Biliary	Digestive System Diseases	14	9	5	0.45054945054945056
+Liver Diseases	Digestive System Diseases	18	9	9	0.30718954248366015
+Liver Diseases, Alcoholic	Digestive System Diseases	21	18	3	0.6095238095238096
+Liver Failure	Digestive System Diseases	12	7	5	0.4393939393939394
+Liver Neoplasms	Neoplasms	19	11	8	0.12280701754385964
+Lung Diseases, Interstitial	Respiratory Tract Diseases	11	4	7	0.21818181818181817
+Lung Neoplasms	Neoplasms	16	14	2	0.3
+Lupus Erythematosus, Systemic	Immune System Diseases	51	33	18	0.283921568627451
+Lupus Nephritis	Immune System Diseases	7	2	5	1.0
+Lymphoma	Neoplasms	24	17	7	0.2391304347826087
+Lymphoma, B-Cell	Neoplasms	26	15	11	0.2246153846153846
+Lymphoma, Large B-Cell, Diffuse	Neoplasms	34	27	7	0.23707664884135474
+Lymphoma, Mantle-Cell	Neoplasms	5	4	1	0.8
+Lymphoma, Non-Hodgkin	Neoplasms	6	4	2	0.6
+Lymphoma, Primary Effusion	Neoplasms	26	15	11	0.38461538461538464
+Lymphoma, T-Cell	Neoplasms	33	13	20	0.25
+Macular Degeneration	Others	12	7	5	0.24242424242424243
+Medulloblastoma	Neoplasms	3	2	1	0.6666666666666666
+Melanoma	Neoplasms	5	2	3	0.2
+Meningioma	Neoplasms	8	5	3	0.6071428571428571
+Mesothelioma	Neoplasms	24	19	5	0.26811594202898553
+Mitochondrial Diseases	Nutritional and Metabolic Diseases	0	0	0	0.0
+Mouth Neoplasms	Neoplasms	6	4	2	0.6666666666666666
+Mucocutaneous Lymph Node Syndrome	Skin and Connective Tissue Diseases	18	3	15	0.6470588235294118
+Multiple Endocrine Neoplasia Type 1	Neoplasms	12	2	10	0.8484848484848485
+Multiple Myeloma	Neoplasms	9	3	6	0.5
+Multiple Sclerosis	Immune System Diseases	13	10	3	0.20512820512820512
+Muscular Atrophy	Nervous System Diseases	3	2	1	1.0
+Muscular Atrophy, Spinal	Nervous System Diseases	5	3	2	0.9
+Muscular Dystrophies	Nervous System Diseases	6	3	3	0.26666666666666666
+Muscular Dystrophy, Facioscapulohumeral	Nervous System Diseases	3	1	2	0.3333333333333333
+Musculoskeletal Abnormalities	Musculoskeletal Diseases	24	16	8	0.4528985507246377
+Mycosis Fungoides	Immune System Diseases	28	18	10	0.335978835978836
+Myelodysplastic Syndromes	Hemic and Lymphatic Diseases	47	19	28	0.2294172062904718
+Myocardial Infarction	Cardiovascular Diseases	32	21	11	0.19959677419354838
+Myocardial Ischemia	Cardiovascular Diseases	12	8	4	0.36363636363636365
+Myocardial Reperfusion Injury	Cardiovascular Diseases	25	14	11	0.38666666666666666
+Myositis	Nervous System Diseases	11	7	4	1.0
+Myotonic Dystrophy	Nervous System Diseases	20	13	7	0.22631578947368422
+Nasopharyngeal Neoplasms	Neoplasms	25	15	10	0.38333333333333336
+Neoplasms	Neoplasms	23	22	1	0.25691699604743085
+Nephrosclerosis	Urogenital Diseases and Pregnancy Complications	18	11	7	0.43790849673202614
+Nephrotic Syndrome	Urogenital Diseases and Pregnancy Complications	18	9	9	0.45098039215686275
+Nervous System Diseases	Nervous System Diseases	7	4	3	0.9523809523809523
+Neurilemmoma	Neoplasms	12	6	6	0.6666666666666666
+Neuroblastoma	Neoplasms	20	10	10	0.25263157894736843
+Neurodegenerative Diseases	Nervous System Diseases	1	0	1	0.0
+Neuroma	Neoplasms	15	1	14	0.8285714285714286
+Neurotoxicity Syndromes	Nervous System Diseases	3	0	3	0.6666666666666666
+Niemann-Pick Disease, Type C	Nervous System Diseases	7	4	3	0.23809523809523808
+Non-alcoholic Fatty Liver Disease	Digestive System Diseases	21	8	13	0.26666666666666666
+Obesity	Nutritional and Metabolic Diseases	19	14	5	0.27485380116959063
+Osteoarthritis	Musculoskeletal Diseases	32	18	14	0.1975806451612903
+Osteoarthritis, Knee	Musculoskeletal Diseases	12	10	2	0.6363636363636364
+Osteogenesis Imperfecta	Musculoskeletal Diseases	9	6	3	0.8888888888888888
+Osteonecrosis	Musculoskeletal Diseases	7	2	5	0.8571428571428571
+Osteoporosis	Nutritional and Metabolic Diseases	4	3	1	1.0
+Osteosarcoma	Neoplasms	19	16	3	0.25146198830409355
+Otitis Media	Others	8	7	1	0.9642857142857143
+Ovarian Neoplasms	Neoplasms	11	11	0	0.4909090909090909
+Pancreatic Neoplasms	Neoplasms	16	15	1	0.30833333333333335
+Pancreatitis, Acute Necrotizing	Digestive System Diseases	6	2	4	0.6666666666666666
+Papillomaviridae	Others	16	5	11	0.8583333333333333
+Parkinson Disease	Nervous System Diseases	9	5	4	0.25
+Periodontal Diseases	Others	20	8	12	0.42105263157894735
+Periodontitis	Others	17	8	9	0.5147058823529411
+Peritonitis	Bacterial Infections and Mycoses	12	4	8	0.9848484848484849
+Pheochromocytoma	Neoplasms	16	10	6	0.3333333333333333
+Pituitary Neoplasms	Neoplasms	26	16	10	0.3292307692307692
+Polycystic Ovary Syndrome	Nutritional and Metabolic Diseases	2	1	1	1.0
+Polycythemia Vera	Hemic and Lymphatic Diseases	11	5	6	0.4909090909090909
+Pre-Eclampsia	Urogenital Diseases and Pregnancy Complications	9	7	2	0.2222222222222222
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	Neoplasms	9	4	5	0.5833333333333334
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	Neoplasms	26	14	12	0.2153846153846154
+Pregnancy, Ectopic	Urogenital Diseases and Pregnancy Complications	8	4	4	0.17857142857142858
+Prion Diseases	Nervous System Diseases	21	8	13	0.23333333333333334
+Prolactinoma	Neoplasms	0	0	0	0.0
+Prostatic Neoplasms	Neoplasms	7	3	4	0.23809523809523808
+Psoriasis	Skin and Connective Tissue Diseases	27	17	10	0.29914529914529914
+Pulmonary Disease, Chronic Obstructive	Respiratory Tract Diseases	13	8	5	0.5128205128205128
+Pulmonary Fibrosis	Respiratory Tract Diseases	11	2	9	0.8363636363636363
+Rectal Neoplasms	Neoplasms	4	2	2	0.0
+Reperfusion Injury	Cardiovascular Diseases	53	38	15	0.19738751814223512
+Respiratory Distress Syndrome, Adult	Respiratory Tract Diseases	4	1	3	1.0
+Respiratory Syncytial Virus Infections	Virus Diseases	24	10	14	0.38405797101449274
+Retinal Degeneration	Others	6	3	3	0.5333333333333333
+Retinal Neovascularization	Others	22	8	14	0.22943722943722944
+Retinitis Pigmentosa	Others	20	13	7	0.4631578947368421
+Retinoblastoma	Neoplasms	16	4	12	0.2833333333333333
+Rhabdomyosarcoma	Neoplasms	21	7	14	0.5428571428571428
+Rhinitis, Allergic	Immune System Diseases	8	6	2	0.21428571428571427
+Rhinitis, Allergic, Perennial	Immune System Diseases	14	6	8	0.4175824175824176
+Rhinitis, Vasomotor	Respiratory Tract Diseases	3	1	2	0.3333333333333333
+Salivary Gland Neoplasms	Neoplasms	13	8	5	0.7051282051282052
+Salmonella Infections	Bacterial Infections and Mycoses	3	2	1	1.0
+Sarcoma	Neoplasms	19	13	6	0.4269005847953216
+Sarcoma, Ewing	Neoplasms	6	1	5	0.6666666666666666
+Sarcoma, Kaposi	Neoplasms	31	15	16	0.32688172043010755
+Sarcoma, Synovial	Neoplasms	7	3	4	0.3333333333333333
+Schistosomiasis japonica	Parasitic Diseases	8	7	1	0.9642857142857143
+Schizophrenia	Others	29	13	16	0.2413793103448276
+Scleroderma, Localized	Skin and Connective Tissue Diseases	5	2	3	0.6
+Scleroderma, Systemic	Skin and Connective Tissue Diseases	15	10	5	0.3142857142857143
+Seizures	Nervous System Diseases	4	1	3	0.8333333333333334
+Seminoma	Neoplasms	3	1	2	1.0
+Sepsis	Bacterial Infections and Mycoses	21	15	6	0.3476190476190476
+Sezary Syndrome	Immune System Diseases	17	12	5	0.3602941176470588
+Shock, Hemorrhagic	Others	13	5	8	0.3974358974358974
+Sjogren's Syndrome	Immune System Diseases	29	20	9	0.43596059113300495
+Small Cell Lung Carcinoma	Neoplasms	38	22	16	0.2034139402560455
+Solitary Fibrous Tumor, Pleural	Neoplasms	9	6	3	0.3333333333333333
+Spinal Cord Injuries	Nervous System Diseases	28	12	16	0.34656084656084657
+Spinal Stenosis	Musculoskeletal Diseases	9	2	7	0.6666666666666666
+Spondylitis, Ankylosing	Musculoskeletal Diseases	4	1	3	0.5
+Squamous Cell Carcinoma, Esophageal	Neoplasms	31	29	2	0.21505376344086022
+Squamous Cell Carcinoma, Head and Neck	Neoplasms	13	12	1	0.1794871794871795
+Stomach Neoplasms	Neoplasms	11	10	1	0.45454545454545453
+Stroke	Nervous System Diseases	31	18	13	0.25591397849462366
+Subarachnoid Hemorrhage	Cardiovascular Diseases	7	4	3	0.6190476190476191
+Telangiectasia, Hereditary Hemorrhagic	Cardiovascular Diseases	3	0	3	0.6666666666666666
+Testicular Neoplasms	Neoplasms	6	3	3	0.6
+Thrombocythemia, Essential	Hemic and Lymphatic Diseases	19	13	6	0.6023391812865497
+Thyroid Carcinoma, Anaplastic	Neoplasms	37	23	14	0.36036036036036034
+Thyroid Neoplasms	Neoplasms	28	20	8	0.2328042328042328
+Thyroiditis, Autoimmune	Immune System Diseases	5	4	1	0.6
+Toxoplasmosis	Parasitic Diseases	19	15	4	0.16374269005847952
+Triple Negative Breast Neoplasms	Neoplasms	50	39	11	0.1763265306122449
+Tuberculosis	Bacterial Infections and Mycoses	23	8	15	0.4624505928853755
+Tuberculosis, Pulmonary	Bacterial Infections and Mycoses	0	0	0	0.0
+Urinary Bladder Neoplasms	Neoplasms	16	13	3	0.31666666666666665
+Uterine Cervical Neoplasms	Neoplasms	16	12	4	0.13333333333333333
+Uveal Melanoma	Neoplasms	10	6	4	0.7333333333333333
+Vitiligo	Skin and Connective Tissue Diseases	25	19	6	0.53
+Waldenstrom Macroglobulinemia	Immune System Diseases	28	24	4	0.4312169312169312
